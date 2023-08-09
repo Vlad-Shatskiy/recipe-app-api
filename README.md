@@ -2,7 +2,7 @@
 
 ## 🔗 Links
 
-### 🥳 [Website is here!]([https://vlad-shatskiy.github.io/](http://ec2-16-16-211-152.eu-north-1.compute.amazonaws.com/api/docs/))
+### 🥳 [Website is here!](http://ec2-16-16-211-152.eu-north-1.compute.amazonaws.com/api/docs/)
 ## I used drj-spectacular for documentation of my api which you can find from url above.
 
 ### 📧 <a href="mailto:serrbian@gmail.com">Ask me anything!</a>
