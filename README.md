@@ -14,8 +14,9 @@
   - Django Rest Framework
   - Drf-spectacular
   - Pillow
+  - Docker
   - uwsgi
-  
+    
 
 - DB
 
